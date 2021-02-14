@@ -1,0 +1,159 @@
+body, header{
+    margin: 0;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+main{
+    margin-top: -30px;
+    text-align: center;
+    height: 1670px;
+}
+
+header{
+    padding: 30px;
+    margin-left: 14.5%;
+    width: 71%;
+    background-color: white;
+}
+
+.main-p{
+    margin-left: 10px;
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: #8e9da5;
+    float: left;
+}
+header h1{
+    margin-left: 5px;
+    font-family: 'Yellowtail', cursive;
+    font-size:xx-large;
+}
+ 
+header span{
+    float: left;
+    display: inline-block;
+}
+
+#cont-header img{
+    margin-top: 10px;
+}
+
+#cont-header{
+    float: right;
+}
+main article div h1{
+    margin-left: 16%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 3vw;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-right: 860px;
+}
+
+.stripe {
+    margin-left: 16%;
+    width: 67%;
+    height: 20px;
+    background-image: linear-gradient(45deg, #ffffff 28.57%, #e0e0e0 28.57%, #e0e0e0 50%, #ffffff 50%, #ffffff 78.57%, #e0e0e0 78.57%, #e0e0e0 100%);
+    background-size: 9.90px 9.90px;
+}
+#p{
+margin-left: 16.5%;
+margin-top: 10px;
+}
+.fig{
+    width: 67%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+    margin-left: 229px;
+    font-size: large;
+    text-align: left;
+    color: #615651;
+}
+
+#checkboxs{
+    float: left;
+    padding-top: 40px;
+    width: 66.5%;
+    margin-left: 220px;
+    background-image: url('img/list-bg.png');
+    font-size: x-large;
+    text-align: left;
+    height: 260px;
+}
+#checkboxs div {
+    display: inline-block;
+}
+
+#checkboxs div div{
+    margin-bottom: 7px;
+    display: block;
+    margin-left: 20px;
+}
+
+#sen{
+    width: 59%;
+}
+
+#fir{
+    margin-left: 30px;
+}
+
+.last-div{
+    float: left;
+    padding-top: 40px;
+    width: 70%;
+    margin-left: 228px;
+    font-size: x-large;
+    text-align: left;
+}
+article{
+    height: 1350px;
+    margin-bottom: 30px;
+}
+#SHARE{
+    height: 50px;
+    width: 150px;
+    color: white;
+    margin-left: -240px;
+    margin-top: 90px;
+    background-color: #bc7058;
+}
+.last-div{
+    width: 55%;
+}
+ footer{
+     text-align: center;
+     color: #b8c1c4;
+ }
+ article div{
+     margin-bottom: 30px;
+ }
+
+
+
+ #it, #icon-img{
+     margin-top: 10px;
+     float: right;
+     margin-right: -.7%;
+     display: block;
+}
+#it{
+    margin-top: 7px;
+}
+#main-img{
+    width: 67%;
+}
+#icon-span{
+    display:inline-block;
+    margin-right: -34%;
+}
+hr{
+    width: 67%;
+    position: relative;
+    top: -28px;
+    z-index: -10;
+    border-top: 1px solid #b8c1c4;
+}
+
